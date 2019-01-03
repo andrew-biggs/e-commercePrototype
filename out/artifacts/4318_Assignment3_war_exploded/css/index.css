@@ -1,0 +1,56 @@
+#itemTable, td, th{
+    border: 2px solid black;
+}
+#itemTable, .btn{
+    margin: 6% auto;
+    background-color: lightblue;
+}
+td, h1, h2, .midd{
+    padding: 10px;
+    text-align: center;
+    align-content: center;
+}
+#cartTable, .div{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+}
+
+body{
+    background-color: lavender;
+}
+
+label{
+    float: initial;
+}
+header{
+    border: 5px solid black;
+    height: 25%;
+    width: 75%;
+    alignment: center;
+    padding:20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightsteelblue;
+}
+
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 30px;
+}
+
+.midd{
+    border: 4px solid black;
+    width: 20%;
+    height: 20%;
+    background-color: lightsteelblue;
+    margin-top: 6%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
